@@ -1,4 +1,7 @@
 #include<stdio.h>
+#include<conio.h>
+#include<deepika.h>
+#include<anurag.h>
 #include<stdlib.h>
 int board[3][3]={2,2,2,2,2,2,2,2,2};
 int turn,win,check;
